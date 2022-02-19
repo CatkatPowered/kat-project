@@ -1,4 +1,4 @@
-<h1 align="center">🌋 Kat Projects</h1>
+<h1 align="center">🌋 Kat Project</h1>
 
 ## 协议与声明
 
