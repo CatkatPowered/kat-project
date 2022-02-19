@@ -1,4 +1,4 @@
-<h1 align="center">🕊 Kat Server</h1>
+<h1 align="center">🌋 Kat Proejct</h1>
 
 ## 🍀 开始
 

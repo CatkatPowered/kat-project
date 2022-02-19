@@ -1,1 +1,1 @@
-- [Kat Server](readme.md)
+- [Kat Project](readme.md)
