@@ -2,3 +2,5 @@
   - [隐私协议](privacy-policy.md)
   - [用户协议](terms-of-use.md)
   - [开源声明](open-source-license.md)
+- [Kat Server](kat-server.md)
+  - [千里之行，始于 Quick Start](kat-server-quick-start.md)
