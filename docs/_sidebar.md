@@ -1,1 +1,4 @@
 - [Kat Project](readme.md)
+  - [隐私协议](privacy-policy.md)
+  - [用户协议](terms-of-use.md)
+  - [开源声明](open-source-license.md)

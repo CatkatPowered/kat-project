@@ -1,13 +1,13 @@
 <h1 align="center">开源声明</h1>
 <h5 align="center">2022年2月20日 更新</h5>
 
-用户协议 全称 “Kat Project 开源声明” 下简称 “声明“，“我们” 指 Kat Project 发起团队 Catkat Powered，“您” 指使用 Kat Project 发布的软件的用户。
-请阅读以下内容，确保您充分理解本声明中各条款后选择接受或不接受本协议，但请注意，您如果不认同该声明，我们将不为您提供软件以及服务。
+开源声明 全称 “Kat Project 开源声明” 下简称 “声明“，“我们” 指 Kat Project 发起团队 Catkat Powered，“您” 指使用 Kat Project 发布的软件的用户。
+请阅读以下内容，确保您充分理解本声明中各条款后选择认同或不认同本声明，但请注意，您如果不认同该声明，我们将不为您提供软件以及服务。
 
 AGPL 3.0
 原名：GNU Affero General Public License v3.0
 协议原文网页：https://opensource.org/licenses/agpl-3.0
-译名：GNU AFFERO 通用公共许可
+译名：GNU AFFERO 通用公共许可 3.0
 下称：AGPL 3.0、AGPLv3、开源协议
 
 CC-BY-SA 4.0
