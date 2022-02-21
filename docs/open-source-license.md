@@ -6,13 +6,13 @@
 
 AGPL 3.0
 原名：GNU Affero General Public License v3.0
-协议原文网页：https://opensource.org/licenses/agpl-3.0
+协议原文网页：<https://opensource.org/licenses/agpl-3.0>
 译名：GNU AFFERO 通用公共许可 3.0
 下称：AGPL 3.0、AGPLv3、开源协议
 
 CC-BY-SA 4.0
 原名：A Creative Commons License 4.0
-协议原文网页：https://creativecommons.org/licenses/by-sa/4.0/deed.zh
+协议原文网页：<https://creativecommons.org/licenses/by-sa/4.0/deed.zh>
 译名：知识署名-相同方式共享协议 4.0
 下称：CC-BY-SA 4.0 、共享协议
 
@@ -21,3 +21,14 @@ CC-BY-SA 4.0
 3. 若您违反了开源协议、共享协议，依照协议内容，我们所默许授予您使用、分发、修改的授权将自动失效，即侵犯了我们的著作权。
 4. 我们不认可您使用项目做出的商业行为，不对您的行为负责，请遵守中华人民共和国法律以及当地法律。
 5. Catkat Powered 保留本声明的最终解释权。
+
+当前我们的开源项目使用的协议如下
+
+<p align="center">
+
+|                            项目名                            |   协议   |
+| :----------------------------------------------------------: | :------: |
+|   [KatServer](https://github.com/CatkatPowered/kat-server)   | AGPL 3.0 |
+| [KatProtocol](https://github.com/CatkatPowered/kat-protocol) | 共享协议 |
+
+</p>
