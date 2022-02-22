@@ -18,7 +18,7 @@ Kat Project 目前由前段、后端、协议三个部分组成，其中，协�
 
 - [Moseeger](https://github.com/CatkatPowered/moseeger) 是前端项目，它是向用户展示的主要界面
 
-- [Kat Server](https://github.com/CatkatPowered/kat-server) 是后端项目，它主要包括了两个概念：核心、拓展
+- [Kat Server](https://github.com/CatkatPowered/kat-server) 是后端项目，它主要包括了两个概念：核心、扩展
 
 - [Kat Protocol](https://github.com/CatkatPowered/kat-protocol) 是协议项目，它用于构造一套前后端间交流的 “语言”
 
