@@ -1,7 +1,7 @@
-<h1 align="center">用户条款</h1>
+<h1 align="center">使用条款</h1>
 <h5 align="center">2022年3月10日 更新</h5>
 
-用户条款 全称 “Kat Project 用户条款” 下简称 “条款“，“我们” 指 Kat Project 发起团队 Catkat Powered，“您” 指使用 Kat Project 发布的软件的用户。
+使用条款 全称 “Kat Project 使用条款” 下简称 “条款“，“我们” 指 Kat Project 发起团队 Catkat Powered，“您” 指使用 Kat Project 发布的软件的用户。
 请阅读以下内容，确保您充分理解本条款中各条款后选择接受或不接受本条款，但请注意，您如果不接受该条款，我们将不为您提供软件以及服务。
 
 1. 我们不对您的行为负责，您的行为与我们无关，您必须遵守中华人民共和国法律以及当地法律。
